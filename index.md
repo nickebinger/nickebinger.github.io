@@ -193,7 +193,7 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
-    
+ <br>   
 </body>
 </html>
 
