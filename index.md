@@ -4,6 +4,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ![Ski](logo.jpg)
 
+## Ausstattung 
+
+*   8 Betten, für bis zu 10 Personen
+*   Grosszügige Küche
+*   WIFI
+*   Skiraum
+*   etc.. 
+
 ## Preise
 
 | Übernachtungen | Preis / Nacht     | 
