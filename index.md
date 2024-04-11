@@ -20,3 +20,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 | 4,5            | 110 CHF           | 
 | 6              | 100 CHF           |
 | >7             | 80 CHF            |
+
+
+<html><p>Test</p> </html>
