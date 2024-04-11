@@ -3,9 +3,9 @@
       <script>
          var password = "wiler1";
          (function passcodeprotect() {
-            var passcode = prompt("Enter PassCode");
+            var passcode = prompt("Passwort eingeben");
             while (passcode !== password) {
-               alert("Incorrect PassCode");
+               alert("Falsches Passwort :(");
                return passcodeprotect();
             }
          }());
