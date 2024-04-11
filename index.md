@@ -1,7 +1,7 @@
 <html>
    <body>
       <script>
-         var password = "tutorial";
+         var password = "wiler1";
          (function passcodeprotect() {
             var passcode = prompt("Enter PassCode");
             while (passcode !== password) {
@@ -9,7 +9,6 @@
                return passcodeprotect();
             }
          }());
-         alert('Welcome To The TP..!');
       </script>
    </body>
 </html>
