@@ -2,7 +2,6 @@
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
-<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -144,22 +143,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="Wohnzimmer">
+      <img class="demo cursor" src="living.jpg" style="width:100%" onclick="currentSlide(1)" alt="Wohnzimmer">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Schlafzimmer">
+      <img class="demo cursor" src="sleeping.jpg" style="width:100%" onclick="currentSlide(2)" alt="Schlafzimmer">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Küche">
+      <img class="demo cursor" src="kitchen.jpg" style="width:100%" onclick="currentSlide(3)" alt="Küche">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Skinä uf dr Louchere">
+      <img class="demo cursor" src="skiing.jpg" style="width:100%" onclick="currentSlide(4)" alt="Skinä uf dr Louchere">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Wandere im Lötschetau">
+      <img class="demo cursor" src="hiking.jpg" style="width:100%" onclick="currentSlide(5)" alt="Wandere im Lötschetau">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Haus">
+      <img class="demo cursor" src="logo.jpg" style="width:100%" onclick="currentSlide(6)" alt="Haus">
     </div>
   </div>
 </div>
