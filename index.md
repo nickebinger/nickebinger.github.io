@@ -217,5 +217,5 @@ function showSlides(n) {
 ## Verfügbarkeit
 
 <html>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23ffffff&showPrint=0&src=MDNhNjcxZWE2NmQ0ZTVkYzJlOTJhMzRiYzUxN2QwNjVhMDljZDA1OWNlNzQ5MDMwYWJiZThhZmY1NzRlYmVkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZGUuY2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&src=MDNhNjcxZWE2NmQ0ZTVkYzJlOTJhMzRiYzUxN2QwNjVhMDljZDA1OWNlNzQ5MDMwYWJiZThhZmY1NzRlYmVkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300" style="border-width:0" frameborder="0" scrolling="no"></iframe>
 </html>
