@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Gäbistrasse 3 
 description: Wir vermieten unsere Ferienwohnung im Lötschental an Freunde und Familie. Perfekt für Sportbegeisterte und Plöischler. 
 logo: logo.jpg
+github:
+  is_project_page: false
