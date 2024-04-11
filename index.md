@@ -1,3 +1,19 @@
+<html>
+   <body>
+      <script>
+         var password = "tutorial";
+         (function passcodeprotect() {
+            var passcode = prompt("Enter PassCode");
+            while (passcode !== password) {
+               alert("Incorrect PassCode");
+               return passcodeprotect();
+            }
+         }());
+         alert('Welcome To The TP..!');
+      </script>
+   </body>
+</html>
+
 ## Ferien im Lötschental 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
