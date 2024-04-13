@@ -121,32 +121,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="living.jpg" style="width:100%">
+    <img src="wohnzimmer.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="sleeping.jpg" style="width:100%">
+    <img src="wohnzimmer2.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="kitchen.jpg" style="width:100%">
+    <img src="wohnzimmer3.JPG" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="skiing.jpg" style="width:100%">
+    <img src="kueche.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="hiking.jpg" style="width:100%">
+    <img src="bad.JPG" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="logo.jpg" style="width:100%">
+    <img src="logo.JPG" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -158,22 +158,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="living.jpg" style="width:100%" onclick="currentSlide(1)" alt="Wohnzimmer">
+      <img class="demo cursor" src="wohnzimmer.JPG" style="width:100%" onclick="currentSlide(1)" alt="Wohnzimmer">
     </div>
     <div class="column">
-      <img class="demo cursor" src="sleeping.jpg" style="width:100%" onclick="currentSlide(2)" alt="Schlafzimmer">
+      <img class="demo cursor" src="wohnzimmer2.JPG" style="width:100%" onclick="currentSlide(2)" alt="Schlafzimmer">
     </div>
     <div class="column">
-      <img class="demo cursor" src="kitchen.jpg" style="width:100%" onclick="currentSlide(3)" alt="Küche">
+      <img class="demo cursor" src="wohnzimmer3.JPG" style="width:100%" onclick="currentSlide(3)" alt="Küche">
     </div>
     <div class="column">
-      <img class="demo cursor" src="skiing.jpg" style="width:100%" onclick="currentSlide(4)" alt="Skinä uf dr Louchere">
+      <img class="demo cursor" src="kueche.JPG" style="width:100%" onclick="currentSlide(4)" alt="Skinä uf dr Louchere">
     </div>
     <div class="column">
-      <img class="demo cursor" src="hiking.jpg" style="width:100%" onclick="currentSlide(5)" alt="Wandere im Lötschetau">
+      <img class="demo cursor" src="bad.JPG" style="width:100%" onclick="currentSlide(5)" alt="Wandere im Lötschetau">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="logo.jpg" style="width:100%" onclick="currentSlide(6)" alt="Haus">
+      <img class="demo cursor" src="logo.JPG" style="width:100%" onclick="currentSlide(6)" alt="Haus">
     </div>
   </div>
 </div>
