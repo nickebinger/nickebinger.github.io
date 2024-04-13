@@ -161,16 +161,16 @@ img {
       <img class="demo cursor" src="wohnzimmer.JPG" style="width:100%" onclick="currentSlide(1)" alt="Wohnzimmer">
     </div>
     <div class="column">
-      <img class="demo cursor" src="wohnzimmer2.JPG" style="width:100%" onclick="currentSlide(2)" alt="Schlafzimmer">
+      <img class="demo cursor" src="wohnzimmer2.JPG" style="width:100%" onclick="currentSlide(2)" alt="Aufenthaltsraum">
     </div>
     <div class="column">
-      <img class="demo cursor" src="wohnzimmer3.JPG" style="width:100%" onclick="currentSlide(3)" alt="Küche">
+      <img class="demo cursor" src="wohnzimmer3.JPG" style="width:100%" onclick="currentSlide(3)" alt="Warmes Cheminée fürs Aufwärmen nach einem langen Skitag">
     </div>
     <div class="column">
-      <img class="demo cursor" src="kueche.JPG" style="width:100%" onclick="currentSlide(4)" alt="Skinä uf dr Louchere">
+      <img class="demo cursor" src="kueche.JPG" style="width:100%" onclick="currentSlide(4)" alt="Grosszügige Küche">
     </div>
     <div class="column">
-      <img class="demo cursor" src="bad.JPG" style="width:100%" onclick="currentSlide(5)" alt="Wandere im Lötschetau">
+      <img class="demo cursor" src="bad.JPG" style="width:100%" onclick="currentSlide(5)" alt="Badezimmer">
     </div>    
     <div class="column">
       <img class="demo cursor" src="logo.JPG" style="width:100%" onclick="currentSlide(6)" alt="Haus">
