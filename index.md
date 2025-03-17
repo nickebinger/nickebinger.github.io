@@ -201,8 +201,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 *   Grosszügige Küche
 *   WIFI
 *   Skiraum
-*   etc.. 
+*   etc..
 
+*   
 ## Preise
 
 | Übernachtungen | Preis / Nacht     | 
@@ -211,6 +212,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 | 4,5            | 110 CHF           | 
 | 6              | 100 CHF           |
 | >7             | 80 CHF            |
+
+## Flyer zum Download 
+
+<html>
+   <a href="Ferienwohnung Wiler Flyer 2025 Winter.pdf" download>
+  <button>PDF herunterladen</button>
+</a>
+</html>
 
 ## Verfügbarkeit
 
