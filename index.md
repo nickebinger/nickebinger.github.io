@@ -203,7 +203,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 *   Skiraum
 *   etc..
 
-*   
 ## Preise
 
 | Übernachtungen | Preis / Nacht     | 
@@ -221,10 +220,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 </a>
 </html>
 
-## Verfügbarkeit
+## Kontakt
 
-<html>
+Olivia / 079 819 00 72 
+
+<! --  <html>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&showPrint=0&src=MDNhNjcxZWE2NmQ0ZTVkYzJlOTJhMzRiYzUxN2QwNjVhMDljZDA1OWNlNzQ5MDMwYWJiZThhZmY1NzRlYmVkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300"  style="overflow:hidden;height:450;width:100%" height="450" width="100%"></iframe>
    
-</html>
+</html> --> 
