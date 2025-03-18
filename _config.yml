@@ -1,3 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
+title: Gäbistrasse 3 
+description: Wir vermieten unsere Ferienwohnung im Lötschental an Freunde und Familie. Perfekt für Schneesportbegeisterte, Wandervögel und Plöischler.  
+logo: logo.JPG
